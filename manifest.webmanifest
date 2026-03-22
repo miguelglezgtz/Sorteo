@@ -1,1 +1,1 @@
-{"name":"Sorteo","short_name":"Sorteo","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#000000","lang":"en","scope":"/Sorteo/","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png"}]}
+{"name":"Sorteo","short_name":"Sorteo","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#000000","lang":"en","scope":"https://miguelglezgtz.github.io/Sorteo/","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png"}]}
